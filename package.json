@@ -1,0 +1,14 @@
+{
+  "name": "Telegram-HAxALIEN",
+  "version": "1.0.0",
+  "description": "Suck My Dick",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "HAxALIEN",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
